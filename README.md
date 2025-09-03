@@ -40,4 +40,4 @@
         </li>
         <li><code>5-orderstatus-query.sql</code>: A query to track the status of orders as they move through the fulfillment process (Pending, Picked, Packed, etc.).</li>
     </ul>
-    <h1><a href="https://lookerstudio.google.com/s/tURdNB3WHAU">Dashboard<a/><h1>
+    <h1><a href="https://lookerstudio.google.com/embed/reporting/02ffb70f-303e-496c-9e87-167b2bed48ac/page/YugWF">Dashboard<a/><h1>
